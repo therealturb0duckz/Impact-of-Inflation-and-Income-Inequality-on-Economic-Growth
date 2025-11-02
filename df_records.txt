@@ -1,0 +1,37 @@
+gini_df 
+    - countries: 266
+    - year: 1980-2024
+    - status: incompleted
+    - note: fill in NaN
+    
+inflation_and_econ_ind_df
+    - countries: 19
+    - year: 2010-2025
+    - status: incompleted
+    - note:
+
+global_inflation_df
+    - countries: 196
+    - year: 1980-2023
+    - status: incompleted
+    - note:
+    
+education_df 
+    - countries: 191
+    - year: -
+    - status: completed
+    - note: missing yeat (inconclusive)
+
+socio_df 
+    - countries: 66
+    - year: 2017
+    - status: completed
+    - note: 
+
+world_bank_Df
+    - countries: 215
+    - year: 2000 - 2022
+    - status: incompleted
+    - note:
+    
+Author's note: we need aligning years to plot and to make sure that our result is as accurate as possible. (integrity ig.)
